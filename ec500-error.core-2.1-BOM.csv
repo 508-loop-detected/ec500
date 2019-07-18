@@ -1,0 +1,40 @@
+﻿Name,Designator,Footprint,Quantity,Notes,Source,Part #,Price per 1,Price per 10,Price per 100,URL
+100K resistor,"R17,R24,R21,R27, R31,R32,R34,R37, R38,R43,R44,R45",0805',12,805 SMT,Tayda,A-3113,0.01,0.01,0.009,https://www.taydaelectronics.com/resistors/smd-chip-resistors/0805/50-x-smd-chip-resistors-100k-ohm-1-8w-1-0805.html
+100nF capacitor,"C22,C10,C14,C15, C16,C17,C18",0805',7,805 SMT,Tayda,A-3511,0.04,0.04,0.04,https://www.taydaelectronics.com/capacitors/smd-ceramic-chip-capacitors/0805/100nf-50v-smd-ceramic-chip-capacitor.html
+100pF capacitor,C27,0805',1,805 SMT,Tayda,A-3503,0.02,0.02,0.018,https://www.taydaelectronics.com/capacitors/smd-ceramic-chip-capacitors/0805/100pf-50v-smd-ceramic-chip-capacitor.html
+10K resistor,"R47,R48,R49,R50, R51,R52,R54,R46, R53",0805',9,805 SMT,Tayda,A-3089,0.01,0.01,0.009,https://www.taydaelectronics.com/resistors/smd-chip-resistors/0805/50-x-smd-chip-resistors-10k-ohm-1-8w-1-0805.html
+1K resistor,"R1,R2,R3,R4,R5, R7,R8,R9,R10,R15, R16,R18,R26,R11, R12,R13,R14,R23, R28,R55,R56,R57, R58,R59",0805',24,805 SMT,Tayda,A-3065,0.001,0.001,0.009,https://www.taydaelectronics.com/resistors/smd-chip-resistors/0805/50-x-smd-chip-resistors-1-0k-ohm-1-8w-1-0805.html
+220nF capacitor,"C1,C3,C7,C21,C23, C25,C19,C20,C28",0805',9,805 SMT,Tayda,A-3512,0.02,0.02,0.018,https://www.taydaelectronics.com/capacitors/smd-ceramic-chip-capacitors/0805/220nf-50v-smd-ceramic-chip-capacitor.html
+220pF capacitor,"C2,C4,C5,C6,C8,C24",0805',6,805 SMT,Tayda,A-3504,0.02,0.02,0.018,https://www.taydaelectronics.com/capacitors/smd-ceramic-chip-capacitors/0805/220pf-50v-smd-ceramic-chip-capacitor.html
+470R resistor,R41,0805',1,805 SMT,Tayda,A-3057,0.01,0.01,0.009,https://www.taydaelectronics.com/resistors/smd-chip-resistors/0805/50-x-smd-chip-resistors-470-ohm-1-8w-1-0805.html
+47pF capacitor,"C9,C12",0805',2,805 SMT,Tayda,A-3517,0.02,0.02,0.018,https://www.taydaelectronics.com/capacitors/smd-ceramic-chip-capacitors/0805/47pf-50v-smd-ceramic-chip-capacitor-0805.html
+56K resistor,"R6,R19,R20,R22, R25,R29,R30,R33, R35,R36,R39,R40,R42",0805',13,805 SMT,Tayda,A-3107,0.01,0.01,0.009,https://www.taydaelectronics.com/resistors/smd-chip-resistors/0805/50-x-smd-chip-resistors-56k-ohm-1-8w-1-0805.html
+56nF capacitor,"C11,C13",0805',2,805 SMT,Tayda,A-3531,0.02,0.02,0.018,https://www.taydaelectronics.com/capacitors/smd-ceramic-chip-capacitors/0805/56nf-50v-smd-ceramic-chip-capacitor-0805.html
+2.54mm female header 1x3,"U4, U5, U8, U9, U10, U11, U12, U13, U15",2.54MM HEADER 1X3,9,2.54mm header 1x3,Tayda,A-1069,0.04,0.04,0.04,https://www.taydaelectronics.com/connectors-sockets/pin-headers/3-pin-2-54-mm-single-row-female-pin-header.html
+1N4148,"D1,D2,D3,D4,D5, D9,D10,D6,D7, D8,D11,D12,D13",4148,13,small signal diode,Tayda,A-157,0.01,0.01,0.01,https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
+1N5817,"D14,D15,D16",5817,3,1N5817 diode,Tayda,A-159,0.06,0.06,0.06,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html
+100K pot,"VR4,VR3,VR1,VR2, VR5,VR8,VR6,VR9",9MM_SNAP-IN_POT,8,"""Song Huei Tall Trimmer""",Smallbear or Thonk,1012A4-B100K,0.85,0.8,0.65,https://smallbear-electronics.mybigcommerce.com/9mm-pc-mount-plastic-shaft-w-white-index/#
+10K pot,"VR7,VR10",9MM_SNAP-IN_POT,2,"""Song Huei Tall Trimmer""",Smallbear or Thonk,1012A4-B10K,0.85,0.8,0.65,https://smallbear-electronics.mybigcommerce.com/9mm-pc-mount-plastic-shaft-w-white-index/#
+1K pot,"VR27,VR25,VR24",9MM_SNAP-IN_POT,3,"""Song Huei Tall Trimmer""",Smallbear or Thonk,1012A4-B1K,0.85,0.8,0.65,https://smallbear-electronics.mybigcommerce.com/9mm-pc-mount-plastic-shaft-w-white-index/#
+1M pot,VR28,9MM_SNAP-IN_POT,1,"""Song Huei Tall Trimmer""",Smallbear or Thonk,1012A4-B1M,0.85,0.8,0.65,https://smallbear-electronics.mybigcommerce.com/9mm-pc-mount-plastic-shaft-w-white-index/#
+10uF capacitor,C26,CAP_2.5MM,1,10uF electrolytic capacitor,Mouser,667-ECE-A1VKS100,0.27,0.184,0.093,https://www.mouser.com/ProductDetail/667-ECE-A1VKS100
+2x7 pin box header,P9,CON_HEADER_2X07,1,IDC Box 2.54mm 14P Straight,Tayda,A-2952,0.18,0.18,0.18,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/14-pin-box-header-connector-2-54mm.html
+2.54mm female header 1x2,"P1,P2,P3,P4,P5, P6,P20,P10,P11, P19,P12,P13, P18, P21",HDR-2X1/2.54,14,Headers  Pins 1*2P,Tayda,A-1057,0.04,0.04,0.04,https://www.taydaelectronics.com/connectors-sockets/pin-headers/2-pin-2-54-mm-single-row-female-pin-header.html
+2.54mm female header 2x4,"HSYNC,VSYNC",HDR-4X2/2.54,2,Header2X4P 2.54mm,Tayda,A-1682,0.12,0.12,0.12,https://www.taydaelectronics.com/connectors-sockets/pin-headers/2x4-pin-2-54mm-double-row-female-pin-header.html
+2x8 pin box header,P7,HDR-IDC-2.54-2X8P,1,IDC Box 2.54mm 16P Straight,Tayda,A-2956,0.18,0.18,0.18,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/16-pin-box-header-connector-2-54mm.html
+2x5 pin box header,U14,HEADER_BOX_2.54_2X5_65_32,1,IDC Box 2.54mm 10P Straight,Tayda,A-2939,0.14,0.14,0.14,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/10-pin-box-header-connector-2-54mm.html
+LED-3MM,LED1,LED-3MM/2.54,1,"red, yellow or orange",Tayda,A-261,0.02,0.02,0.02,https://www.taydaelectronics.com/leds/round-leds/3mm-leds/red/led-3mm-red.html
+2.54mm female header 2x3,"CN1, CN2, CN3",M2X3,3,Header 2x3P 2.54mm,Amazon,,0.17,0.17,0.17,https://smile.amazon.com/gp/product/B07DK1VCNL/
+2.1MMJACKTHM,U24,PJ-102A,1,2.1mm DC power jack,Tayda,A-4118,0.16,0.16,0.16,https://www.taydaelectronics.com/hardware/dc-power/dc-power-jack-2-1mm-barrel-type-pcb-mount.html
+556,U3,SO-14-WIDE,1,556 dual timer (SMT),Mouser,595-NE556NSR,0.49,0.412,0.251,https://www.mouser.com/ProductDetail/595-NE556NSR
+40106,U1,SO14,1,40106 hex inverter (SMT),Mouser,771-HEF40106BTD-T,0.42,0.314,0.17,https://www.mouser.com/ProductDetail/771-HEF40106BTD-T
+TLV2774INE4,"U6,U7",SO14,2,TLV2774 quad op-amp (SMT),Mouser,595-TLV2774CDR,3.12,2.81,2.3,https://www.mouser.com/ProductDetail/595-TLV2774CDR
+4046,U2,SO16,1,4046 PLL (SMT),Mouser,595-CD4046BNSR,0.51,0.419,0.256,https://www.mouser.com/ProductDetail/595-CD4046BNSR
+SPDT on-on,"G$3,G$4,G$5,G$6, G$7,G$9, G$8,G$10,G$11",SUBMINI_TOGGLE,9,Mountain-style submini,Smallbear or Thonk,10TC410,1.8,1.75,1.6,https://smallbear-electronics.mybigcommerce.com/spdt-on-on-mountain-10tc410/
+7805,U25,TO-220-ALT,1,5vdc regulator,Tayda,A-179,0.23,0.23,0.23,https://www.taydaelectronics.com/lm7805-l7805-7805-voltage-regulator-ic-5v-1-5a.html
+2N3904,Q1,TO-92V,1,transistor,Tayda,A-111,0.02,0.02,0.02,https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html
+SPDT on-off-on,"G$1,G$2",SUBMINI_TOGGLE,2,Mountain-style submini,Thonk,DW2,1.79 pounds,1.79 pounds,1.79 pounds,https://www.thonk.co.uk/shop/sub-mini-toggle-switches/
+M3 screw 6mm,,,4,,Amazon,,0.11,0.11,0.11,https://smile.amazon.com/Uxcell-a15070200ux0064-Stainless-Phillips-Screws/dp/B012TE12CY
+M3 .5mm washer,,,3,,Amazon,,0.03,0.03,0.03,https://smile.amazon.com/gp/product/B01N99WRP8/
+M3 10mm F-F standoff,,,4,,Amazon,,0.09,0.09,0.09,https://smile.amazon.com/gp/product/B07JZQ7YVF/
+M3 8mm M-F standoff,,,3,,Amazon,,0.06,0.06,0.06,https://smile.amazon.com/gp/product/B01C7WUH4M/
