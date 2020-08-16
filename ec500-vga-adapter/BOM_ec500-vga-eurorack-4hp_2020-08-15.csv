@@ -1,0 +1,11 @@
+ID,Name,Designator,Footprint,Quantity
+1,HDR-IDC-2.54-2X8P,P1,HDR-IDC-2.54-2X8P,1
+2,1k,"R8,R7,R6,R3,R4,R5",R0805,6
+3,10k,"R1,R2",R0805,2
+4,HDR-F-2.54_2x8,H1,HDR-F-2.54_2X8 Right Angle,1
+5,VGA-002-female,"OUT,IN",VGA-002-FEMALE,2
+6,0.1u,C1,C0805,1
+7,TLV2774CDR,U1,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1
+8,Keystone 621 Right Angle Bracket,,e.g Mouser 534-621,3
+9,4-40 3/16” screw,,,6
+10,4-40 D-Sub Hex Head Screw,,e.g Mouser 806-JSX-1000,4
